@@ -1,0 +1,45 @@
+Date 4 May,2020
+---------------
+(1) created a github account , name farihatasminkhan 
+(2) open a new project in github account name MyGitLearning
+(3) auto generated a file name README.md
+(4) add line to the local machine from github MyGitLearning
+(5) then commit it
+(6) push origin master
+(7) command : 
+    git add .
+    git commit -m "Readme file modified"
+    git push origin master
+    git init
+    git pull
+    git push origin master
+    cd
+    cd Desktop/
+    cd MyGitLearning/
+    ls
+    cat README.md 
+    git add.
+    git add
+    git add README.md 
+    git commit -m "updated the README.md"
+    git push origin master
+    git add
+    git add 
+    git add README.md 
+    git commit -m "one line added one line deleted"
+    git push origin master
+    cat README.md 
+    git pull
+    cat README.md 
+    touch myLearning.txt
+    history
+
+(8) for read file cat 
+(9) public key fariha_rsa.pub
+(10)configure ssh key
+(11)give access MyGitLearning to jahidapon
+(
+
+
+
+
